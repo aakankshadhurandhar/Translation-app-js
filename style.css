@@ -68,6 +68,7 @@ main {
     border: 2px solid black;
     margin-top: 2rem;
     border-radius: 1rem;
+    text-align: center;
 
 
 }
@@ -78,7 +79,7 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-    padding: 1rem;
+    padding: .5rem;
     background-color: black;
     text-align: center;
 
@@ -167,3 +168,5 @@ footer .fa-link {
     margin-left: 2rem;
     border-radius: 0.5rem;
 }
+
+@media
